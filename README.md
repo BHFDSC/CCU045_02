@@ -1,32 +1,20 @@
-# BHF Data Science Centre research project template
-
-This is a template repository used by the BHF Data Science Centre team when creating new repositories for single-nation CVD-COVID-UK/COVID-IMPACT projects.
-
-# Project name
+# Contemporary trends and impact of multiple long-term conditions in patients with heart failure with reduced and preserved ejection fraction following the onset of the COVID-19 pandemic
 
 ## Project description
 
-Description will be added here.
+The full extent of COVID-19's impact on heart failure patients in the UK, especially across different heart failure subclasses, remains to be comprehensively evaluated. This project aims to assess the contemporary burden of multiple long-term conditions in heart failure patients since the onset of the pandemic and compare these data with pre-pandemic data. It will also explore the interplay between various co-existing long-term conditions and COVID-19, assessing the challenges they pose in managing heart failure patients. By stratifying analyses across major heart failure subclasses, this study will also offer a foundational understanding of the utility of National Institute for Cardiovascular Outcomes Research (NICOR) audits for subclassification of heart failure, contributing to the enhancement of treatment strategies and health outcome assessments in this patient population.
 
 ## How to cite this work
 > Citation details to follow
 
 ## Contents
 
-* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
-
-* [View the analysis code used in the Scottish National Safe Haven](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in the Scottish National Safe Haven](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
-
-* [View the analysis code used in the SAIL Databank](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in the SAIL Databank](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
+* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU045_02/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU045_02/tree/main/phenotypes)
 
 ## Project approval
 
-This project has been approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (project: CCUXXX_XX).
-
-This is a sub-project of [project CCU0XX](https://github.com/BHFDSC/CCU0XX) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU0XX_XX).
+This is a sub-project of [project CCU045](https://github.com/BHFDSC/CCU045) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU045_02).
 
 ## License
 
