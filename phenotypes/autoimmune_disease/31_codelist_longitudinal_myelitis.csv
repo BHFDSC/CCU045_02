@@ -1,0 +1,9 @@
+type,disease,code,description,exclude,concat
+ICD-10,Longitudinal myelitis,G360,Neuromyelitis optica [Devic],0,"('ICD-10', 'Longitudinal myelitis', 'G360', 'Neuromyelitis optica [Devic]', '0'),"
+ICD-10,Longitudinal myelitis,G373,Acute transverse myelitis in demyelinating disease of central nervous system,0,"('ICD-10', 'Longitudinal myelitis', 'G373', 'Acute transverse myelitis in demyelinating disease of central nervous system', '0'),"
+SNOMED CT,Longitudinal myelitis,16631009,Transverse myelopathy syndrome,0,"('SNOMED CT', 'Longitudinal myelitis', '16631009', 'Transverse myelopathy syndrome', '0'),"
+SNOMED CT,Longitudinal myelitis,17674000,Neuromyelitis,0,"('SNOMED CT', 'Longitudinal myelitis', '17674000', 'Neuromyelitis', '0'),"
+SNOMED CT,Longitudinal myelitis,25044007,Neuromyelitis optica,0,"('SNOMED CT', 'Longitudinal myelitis', '25044007', 'Neuromyelitis optica', '0'),"
+SNOMED CT,Longitudinal myelitis,47000000,Acute transverse myelitis,0,"('SNOMED CT', 'Longitudinal myelitis', '47000000', 'Acute transverse myelitis', '0'),"
+SNOMED CT,Longitudinal myelitis,230378004,Acute non-infective transverse myelitis,0,"('SNOMED CT', 'Longitudinal myelitis', '230378004', 'Acute non-infective transverse myelitis', '0'),"
+SNOMED CT,Longitudinal myelitis,425756000,Idiopathic transverse myelitis,0,"('SNOMED CT', 'Longitudinal myelitis', '425756000', 'Idiopathic transverse myelitis', '0'),"

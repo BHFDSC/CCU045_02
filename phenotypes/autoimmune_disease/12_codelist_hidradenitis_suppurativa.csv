@@ -1,0 +1,6 @@
+type,disease,code,description,exclude,concat
+ICD-10,Hidradenitis suppurativa,L732,Hidradenitis suppurativa,0,"('ICD-10', 'Hidradenitis suppurativa', 'L732', 'Hidradenitis suppurativa', '0'),"
+SNOMED CT,Hidradenitis suppurativa,18638007,Hidradenitis suppurativa of anus (disorder),0,"('SNOMED CT', 'Hidradenitis suppurativa', '18638007', 'Hidradenitis suppurativa of anus (disorder)', '0'),"
+SNOMED CT,Hidradenitis suppurativa,402826001,Axillary hidradenitis suppurativa (disorder),0,"('SNOMED CT', 'Hidradenitis suppurativa', '402826001', 'Axillary hidradenitis suppurativa (disorder)', '0'),"
+SNOMED CT,Hidradenitis suppurativa,402827005,Anogenital hidradenitis suppurativa (disorder),0,"('SNOMED CT', 'Hidradenitis suppurativa', '402827005', 'Anogenital hidradenitis suppurativa (disorder)', '0'),"
+SNOMED CT,Hidradenitis suppurativa,402828000,Vulval hidradenitis suppurativa (disorder),0,"('SNOMED CT', 'Hidradenitis suppurativa', '402828000', 'Vulval hidradenitis suppurativa (disorder)', '0'),"
