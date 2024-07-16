@@ -1,4 +1,4 @@
-# Contemporary trends and impact of multiple long-term conditions in patients with heart failure with reduced and preserved ejection fraction following the onset of the COVID-19 pandemic
+# Contemporary epidemiology of hospitalised heart failure with reduced versus preserved ejection fraction: a study of whole-population electronic health records in England
 
 ## Project description
 
