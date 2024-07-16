@@ -1,5 +1,10 @@
 # Contemporary epidemiology of hospitalised heart failure with reduced versus preserved ejection fraction: a study of whole-population electronic health records in England
 
+<!-- badges: start -->
+<!-- ![Languages](https://img.shields.io/badge/Languages-R-6498d3) -->
+![Status](https://img.shields.io/badge/Status-In--Development-red)
+<!-- badges: end -->
+
 ## Project description
 
 This study aims to address key evidence gaps in the understanding of hospitalised heart failure in England, particularly over the COVID-19 pandemic period. Despite the increasing burden of heart failure, its contemporary epidemiology in this setting remains incompletely characterised, especially with respect to trends in re-hospitalisation and mortality, differences between heart failure with reduced ejection fraction (HFrEF) and heart failure with preserved ejection fraction (HFpEF), the impact of co-existing chronic medical conditions, and the implementation of newer guideline-recommended therapies.
