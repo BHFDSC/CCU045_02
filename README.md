@@ -5,6 +5,8 @@
 ![Status](https://img.shields.io/badge/Status-In--Development-red)
 <!-- badges: end -->
 
+The analysis code for this project is under review by the output checkers of the National Health Service Secure Data Environment. Once it passes all the necessary checks, it will be uploaded to this repository.
+
 ## Project description
 
 This study aims to address key evidence gaps in the understanding of hospitalised heart failure in England, particularly over the COVID-19 pandemic period. Despite the increasing burden of heart failure, its contemporary epidemiology in this setting remains incompletely characterised, especially with respect to trends in re-hospitalisation and mortality, differences between heart failure with reduced ejection fraction (HFrEF) and heart failure with preserved ejection fraction (HFpEF), the impact of co-existing chronic medical conditions, and the implementation of newer guideline-recommended therapies.
