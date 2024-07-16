@@ -1,0 +1,8 @@
+type,disease,code,description,exclude,concat
+ICD 10,Polymyalgia rheumatica,M315,Giant cell arteritis with polymyalgia rheumatica,0,"('ICD 10', 'Polymyalgia rheumatica', 'M315', 'Giant cell arteritis with polymyalgia rheumatica', '0'),"
+ICD 10,Polymyalgia rheumatica,M353,Polymyalgia rheumatica,0,"('ICD 10', 'Polymyalgia rheumatica', 'M353', 'Polymyalgia rheumatica', '0'),"
+SNOMED CT,Polymyalgia rheumatica,65323003,Polymyalgia rheumatica,0,"('SNOMED CT', 'Polymyalgia rheumatica', '65323003', 'Polymyalgia rheumatica', '0'),"
+SNOMED CT,Polymyalgia rheumatica,156656001,Polymyalgia rheumatica,0,"('SNOMED CT', 'Polymyalgia rheumatica', '156656001', 'Polymyalgia rheumatica', '0'),"
+SNOMED CT,Polymyalgia rheumatica,202834009,Polymyalgia (& [rheumatica]),0,"('SNOMED CT', 'Polymyalgia rheumatica', '202834009', 'Polymyalgia (& [rheumatica])', '0'),"
+SNOMED CT,Polymyalgia rheumatica,202835005,Giant cell arteritis with polymyalgia rheumatica,0,"('SNOMED CT', 'Polymyalgia rheumatica', '202835005', 'Giant cell arteritis with polymyalgia rheumatica', '0'),"
+SNOMED CT,Polymyalgia rheumatica,267988003,Polymyalgia rheumatica,0,"('SNOMED CT', 'Polymyalgia rheumatica', '267988003', 'Polymyalgia rheumatica', '0'),"

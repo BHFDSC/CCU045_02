@@ -1,0 +1,10 @@
+type,disease,code,description,exclude,concat
+ICD-10,Clinically isolated syndrome,G368,Other specified acute disseminated demyelination,0,"('ICD-10', 'Clinically isolated syndrome', 'G368', 'Other specified acute disseminated demyelination', '0'),"
+ICD-10,Clinically isolated syndrome,G369,"Acute disseminated demyelination, unspecified",0,"('ICD-10', 'Clinically isolated syndrome', 'G369', 'Acute disseminated demyelination, unspecified', '0'),"
+ICD-10,Clinically isolated syndrome,G378,Other specified demyelinating diseases of central nervous system,0,"('ICD-10', 'Clinically isolated syndrome', 'G378', 'Other specified demyelinating diseases of central nervous system', '0'),"
+ICD-10,Clinically isolated syndrome,G379,"Demyelinating disease of central nervous system, unspecified",0,"('ICD-10', 'Clinically isolated syndrome', 'G379', 'Demyelinating disease of central nervous system, unspecified', '0'),"
+SNOMED CT,Clinically isolated syndrome,445967004,Clinically isolated syndrome,0,"('SNOMED CT', 'Clinically isolated syndrome', '445967004', 'Clinically isolated syndrome', '0'),"
+SNOMED CT,Clinically isolated syndrome,703621006,Multifocal clinically isolated syndrome,0,"('SNOMED CT', 'Clinically isolated syndrome', '703621006', 'Multifocal clinically isolated syndrome', '0'),"
+SNOMED CT,Clinically isolated syndrome,703622004,Monofocal clinically isolated syndrome,0,"('SNOMED CT', 'Clinically isolated syndrome', '703622004', 'Monofocal clinically isolated syndrome', '0'),"
+SNOMED CT,Clinically isolated syndrome,804031000000103,Clinically isolated syndrome,0,"('SNOMED CT', 'Clinically isolated syndrome', '804031000000103', 'Clinically isolated syndrome', '0'),"
+SNOMED CT,Clinically isolated syndrome,807361000000101,Clinically isolated syndrome,0,"('SNOMED CT', 'Clinically isolated syndrome', '807361000000101', 'Clinically isolated syndrome', '0'),"

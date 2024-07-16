@@ -1,0 +1,6 @@
+type,disease,code,description,exclude,concat
+ICD-10,Undifferentiated inflammatory arthritis,M064,Inflammatory polyarthropathy,0,"('ICD-10', 'Undifferentiated inflammatory arthritis', 'M064', 'Inflammatory polyarthropathy', '0'),"
+SNOMED CT,Undifferentiated inflammatory arthritis,239819001,Undifferentiated inflammatory oligoarthritis,0,"('SNOMED CT', 'Undifferentiated inflammatory arthritis', '239819001', 'Undifferentiated inflammatory oligoarthritis', '0'),"
+SNOMED CT,Undifferentiated inflammatory arthritis,239820007,Undifferentiated inflammatory monoarthritis,0,"('SNOMED CT', 'Undifferentiated inflammatory arthritis', '239820007', 'Undifferentiated inflammatory monoarthritis', '0'),"
+SNOMED CT,Undifferentiated inflammatory arthritis,416956002,Undifferentiated inflammatory polyarthritis,0,"('SNOMED CT', 'Undifferentiated inflammatory arthritis', '416956002', 'Undifferentiated inflammatory polyarthritis', '0'),"
+SNOMED CT,Undifferentiated inflammatory arthritis,417180005,Undifferentiated inflammatory arthritis,0,"('SNOMED CT', 'Undifferentiated inflammatory arthritis', '417180005', 'Undifferentiated inflammatory arthritis', '0'),"

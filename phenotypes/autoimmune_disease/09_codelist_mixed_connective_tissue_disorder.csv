@@ -1,0 +1,12 @@
+type,disease,code,description,exclude,concat
+ICD-10,Mixed connective tissue disorder,M351,Other overlap syndromes,0,"('ICD-10', 'Mixed connective tissue disorder', 'M351', 'Other overlap syndromes', '0'),"
+SNOMED CT,Mixed connective tissue disorder,33110008,Mixed collagen vascular disease,0,"('SNOMED CT', 'Mixed connective tissue disorder', '33110008', 'Mixed collagen vascular disease', '0'),"
+SNOMED CT,Mixed connective tissue disorder,238936001,Sclerodermatomyositis,0,"('SNOMED CT', 'Mixed connective tissue disorder', '238936001', 'Sclerodermatomyositis', '0'),"
+SNOMED CT,Mixed connective tissue disorder,239918008,Undifferentiated connective tissue disease,0,"('SNOMED CT', 'Mixed connective tissue disorder', '239918008', 'Undifferentiated connective tissue disease', '0'),"
+SNOMED CT,Mixed connective tissue disorder,276657008,Overlap syndrome,0,"('SNOMED CT', 'Mixed connective tissue disorder', '276657008', 'Overlap syndrome', '0'),"
+SNOMED CT,Mixed connective tissue disorder,398021003,Connective tissue disease overlap syndrome,0,"('SNOMED CT', 'Mixed connective tissue disorder', '398021003', 'Connective tissue disease overlap syndrome', '0'),"
+SNOMED CT,Mixed connective tissue disorder,398049005,Mixed collagen vascular disease,0,"('SNOMED CT', 'Mixed connective tissue disorder', '398049005', 'Mixed collagen vascular disease', '0'),"
+SNOMED CT,Mixed connective tissue disorder,276681000000101,[X]Mixed connective tissue disease,0,"('SNOMED CT', 'Mixed connective tissue disorder', '276681000000101', '[X]Mixed connective tissue disease', '0'),"
+SNOMED CT,Mixed connective tissue disorder,292691000000107,Mixed connective tissue disease,0,"('SNOMED CT', 'Mixed connective tissue disorder', '292691000000107', 'Mixed connective tissue disease', '0'),"
+SNOMED CT,Mixed connective tissue disorder,905371000000106,Polymyositis/scleroderma overlap syndrome,0,"('SNOMED CT', 'Mixed connective tissue disorder', '905371000000106', 'Polymyositis/scleroderma overlap syndrome', '0'),"
+SNOMED CT,Mixed connective tissue disorder,905381000000108,Systemic lupus erythematosus/Sjogren's overlap syndrome,0,"('SNOMED CT', 'Mixed connective tissue disorder', '905381000000108', 'Systemic lupus erythematosus/Sjogren's overlap syndrome', '0'),"

@@ -1,0 +1,5 @@
+type,disease,code,description,exclude,concat
+ICD-10,Pernicious anaemia,D510,Vitamin B 12  deficiency anaemia due to intrinsic factor deficiency,0,"('ICD-10', 'Pernicious anaemia', 'D510', 'Vitamin B 12  deficiency anaemia due to intrinsic factor deficiency', '0'),"
+SNOMED CT,Pernicious anaemia,84027009,Pernicious anemia,0,"('SNOMED CT', 'Pernicious anaemia', '84027009', 'Pernicious anemia', '0'),"
+SNOMED CT,Pernicious anaemia,154789008,Pernicious anaemia,0,"('SNOMED CT', 'Pernicious anaemia', '154789008', 'Pernicious anaemia', '0'),"
+SNOMED CT,Pernicious anaemia,193213003,Myasthenic syndrome due to pernicious anemia,0,"('SNOMED CT', 'Pernicious anaemia', '193213003', 'Myasthenic syndrome due to pernicious anemia', '0'),"

@@ -1,0 +1,10 @@
+type,disease,code,description,exclude,concat
+ICD-10,IgA vasculitis,D690,Allergic purpura,0,"('ICD-10', 'IgA vasculitis', 'D690', 'Allergic purpura', '0'),"
+SNOMED CT,IgA vasculitis,191306005,Immunoglobulin A vasculitis,0,"('SNOMED CT', 'IgA vasculitis', '191306005', 'Immunoglobulin A vasculitis', '0'),"
+SNOMED CT,IgA vasculitis,191307001,Henoch-Schonlein nephritis,0,"('SNOMED CT', 'IgA vasculitis', '191307001', 'Henoch-Schonlein nephritis', '0'),"
+SNOMED CT,IgA vasculitis,246074004,Henoch-Sch?nlein purpura,0,"('SNOMED CT', 'IgA vasculitis', '246074004', 'Henoch-Sch?nlein purpura', '0'),"
+SNOMED CT,IgA vasculitis,274592007,[EDTA] Henoch-Schonlein purpura associated with renal failure,0,"('SNOMED CT', 'IgA vasculitis', '274592007', '[EDTA] Henoch-Schonlein purpura associated with renal failure', '0'),"
+SNOMED CT,IgA vasculitis,870349001,Noninfectious enteritis due to immunoglobulin A vasculitis,0,"('SNOMED CT', 'IgA vasculitis', '870349001', 'Noninfectious enteritis due to immunoglobulin A vasculitis', '0'),"
+SNOMED CT,IgA vasculitis,871631000,Ulcer of intestine due to immunoglobulin A vasculitis,0,"('SNOMED CT', 'IgA vasculitis', '871631000', 'Ulcer of intestine due to immunoglobulin A vasculitis', '0'),"
+SNOMED CT,IgA vasculitis,1010623000,Disorder of lung due to immunoglobulin A vasculitis,0,"('SNOMED CT', 'IgA vasculitis', '1010623000', 'Disorder of lung due to immunoglobulin A vasculitis', '0'),"
+SNOMED CT,IgA vasculitis,480571000000106,Henoch-Schonlein purpura associated with renal failure - European Dialysis and Transplant Association,0,"('SNOMED CT', 'IgA vasculitis', '480571000000106', 'Henoch-Schonlein purpura associated with renal failure - European Dialysis and Transplant Association', '0'),"
