@@ -2,7 +2,7 @@
 
 ## Project description
 
-The full extent of COVID-19's impact on heart failure patients in the UK, especially across different heart failure subclasses, remains to be comprehensively evaluated. This project aims to assess the contemporary burden of multiple long-term conditions in heart failure patients since the onset of the pandemic and compare these data with pre-pandemic data. It will also explore the interplay between various co-existing long-term conditions and COVID-19, assessing the challenges they pose in managing heart failure patients. By stratifying analyses across major heart failure subclasses, this study will also offer a foundational understanding of the utility of National Institute for Cardiovascular Outcomes Research (NICOR) audits for subclassification of heart failure, contributing to the enhancement of treatment strategies and health outcome assessments in this patient population.
+This study aims to address key evidence gaps in the understanding of hospitalised heart failure in England, particularly over the COVID-19 pandemic period. Despite the increasing burden of heart failure, its contemporary epidemiology in this setting remains incompletely characterised, especially with respect to trends in re-hospitalisation and mortality, differences between heart failure with reduced ejection fraction (HFrEF) and heart failure with preserved ejection fraction (HFpEF), the impact of co-existing chronic medical conditions, and the implementation of newer guideline-recommended therapies.
 
 ## How to cite this work
 > Citation details to follow
