@@ -1,4 +1,4 @@
-﻿type,code,description,exclude,
+﻿type,code,description,exclude,concat
 ICD-10,C00,Malignant neoplasm of lip,0,"    ('ICD-10', 'C00', 'Malignant neoplasm of lip', '0'),"
 ICD-10,C000,Malignant neoplasm of external upper lip,0,"    ('ICD-10', 'C000', 'Malignant neoplasm of external upper lip', '0'),"
 ICD-10,C001,Malignant neoplasm of external lower lip,0,"    ('ICD-10', 'C001', 'Malignant neoplasm of external lower lip', '0'),"
