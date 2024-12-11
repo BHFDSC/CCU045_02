@@ -50,7 +50,7 @@ ver <- "v2"
 
 con <- dbConnect(
   odbc::odbc(), dsn = 'databricks',
-  HTTPPath = '',
+  HTTPPath = 'sql/protocolv1/o/847064027862604/0622-162121-dts9kxvy',
   PWD = rstudioapi::askForPassword('Please enter Databricks PAT')
 )
 
