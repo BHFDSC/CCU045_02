@@ -1,18 +1,13 @@
-# Contemporary epidemiology of hospitalised heart failure with reduced versus preserved ejection fraction: a study of whole-population electronic health records in England
+# Contemporary epidemiology of hospitalised heart failure with reduced versus preserved ejection fraction in England: a retrospective, cohort study of whole-population electronic health records
 
-<!-- badges: start -->
-<!-- ![Languages](https://img.shields.io/badge/Languages-R-6498d3) -->
-![Status](https://img.shields.io/badge/Status-In--Development-red)
-<!-- badges: end -->
-
-The analysis code for this project is under review by the output checkers of the National Health Service Secure Data Environment. Once it passes all the necessary checks, it will be uploaded to this repository.
+**Robert A Fletcher, Patrick Rockenschaub, Brendon L Neuen, Isabel Johanna Walter, Nathalie Conrad, Mehrdad A Mizani, Thomas Bolton, Claire A Lawson, Christopher Tomlinson, Stelios Boulitsakis Logothetis, Carmen Petitjean, Luigi Filippo Brizzi, Stephen Kaptoge, Elena Raffetti, Patrick A Calvert, Emanuele Di Angelantonio, Amitava Banerjee, Mamas A Mamas, Iain Squire, Spiros Denaxas, Theresa A McDonagh, Cathie Sudlow, Steffen E Petersen, Glenn M Chertow, Kamlesh Khunti, Johan Sundström, Clare Arnott, John G F Cleland, John Danesh, John J V McMurray, Muthiah Vaduganathan, Angela M Wood, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
 
 ## Project description
 
 This study aims to address key evidence gaps in the understanding of hospitalised heart failure in England, particularly over the COVID-19 pandemic period. Despite the increasing burden of heart failure, its contemporary epidemiology in this setting remains incompletely characterised, especially with respect to trends in re-hospitalisation and mortality, differences between heart failure with reduced ejection fraction (HFrEF) and heart failure with preserved ejection fraction (HFpEF), the impact of co-existing chronic medical conditions, and the implementation of newer guideline-recommended therapies.
 
 ## How to cite this work
-> Citation details to follow
+Fletcher RA, Rockenschaub P, Neuen BL, et al. Contemporary epidemiology of hospitalised heart failure with reduced versus preserved ejection fraction in England: a retrospective, cohort study of whole-population electronic health records. Lancet Public Health. 2024;9(11):e871-e885. doi:https://10.1016/S2468-2667(24)00215-9
 
 ## Contents
 
